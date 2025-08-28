@@ -56,4 +56,4 @@ EXPOSE 7860
 # Jalankan sebagai non-root user
 USER 1000
 
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["nginx", "-g", "daemon off;"]
